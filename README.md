@@ -14,3 +14,11 @@ Streamlined reporting processes, saving time and effort for stakeholders.
 Enabled data-driven decisions to target areas with growth potential.
 Equipped decision-makers with actionable insights that could drive a 7% revenue increase in the next quarter.
 
+
+<img width="580" alt="key insights" src="https://github.com/user-attachments/assets/78e303cf-40a5-4d5c-85ea-c23110a9971d">
+
+<img width="578" alt="Performance analysis" src="https://github.com/user-attachments/assets/49e725d1-7028-45de-bb14-fb194e3150bf">
+
+<img width="572" alt="Profit Analysis" src="https://github.com/user-attachments/assets/60515ce6-856d-4ff8-a8ae-1563e59af99e">
+
+
