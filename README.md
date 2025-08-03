@@ -1,4 +1,5 @@
-# Sales_Insights-Dashboard
+# Sales_Insights-Dashboard 
+This is project created as part of my learning
 
 Atliq Hardware, a leading supplier of computer hardware and peripherals, struggled to track sales performance across its regional offices in a rapidly evolving market. Scattered sales data stored in numerous Excel files made it challenging to gain a clear, actionable understanding of their business performance.
 
